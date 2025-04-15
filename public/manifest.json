@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Hayasaka",
+    "name": "Flash Tune",
     "description": "Music streaming and downloading platform.",
-    "short_name": "Hayasaka",
+    "short_name": "Flash Tune",
     "icons": [
         {
             "src": "/icon-192x192.png",
